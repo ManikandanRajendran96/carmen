@@ -3,130 +3,130 @@ en:
   world:
     vn:
       '01':
-        name: Lai Châu
+        name: "Lai Châu|Lai Chau|Lai Chaeu"
       '02':
-        name: Lào Cai
+        name: "Lào Cai|Lao Cai|Laeo Cai"
       '03':
-        name: Hà Giang
+        name: "Hà Giang|Ha Giang|Hae Giang"
       '04':
-        name: Cao Bằng
+        name: "Cao Bằng|Cao Bang|Cao Baeng"
       '05':
-        name: Sơn La
+        name: "Sơn La|Son La|Soen La"
       '06':
-        name: Yên Bái
+        name: "Yên Bái|Yen Bai|Yen Baei"
       '07':
-        name: Tuyên Quang
+        name: "Tuyên Quang|Tuyen Quang"
       '09':
-        name: Lạng Sơn
+        name: "Lạng Sơn|Lang Son|Laeng Soen"
       '13':
-        name: Quảng Ninh
+        name: "Quảng Ninh|Quang Ninh|Quaeng Ninh"
       '14':
-        name: Hoà Bình
+        name: "Hoà Bình|Hoa Binh|Hoae Binh"
       '15':
-        name: Hà Tây
+        name: "Hà Tây|Ha Tay|Hae Taey"
       '18':
-        name: Ninh Bình
+        name: "Ninh Bình|Ninh Binh"
       '20':
-        name: Thái Bình
+        name: "Thái Bình|Thai Binh|Thaei Binh"
       '21':
-        name: Thanh Hóa
+        name: "Thanh Hóa|Thanh Hoa|Thanh Hoea"
       '22':
-        name: Nghệ An
+        name: "Nghệ An|Nghe An|Nghae An"
       '23':
-        name: Hà Tỉnh
+        name: "Hà Tỉnh|Ha Tinh|Hae Tinh"
       '24':
-        name: Quảng Bình
+        name: "Quảng Bình|Quang Binh|Quaeng Binh"
       '25':
-        name: Quảng Trị
+        name: "Quảng Trị|Quang Tri|Quaeng Tri"
       '26':
-        name: Thừa Thiên-Huế
+        name: "Thừa Thiên-Huế|Thua Thien-Hue"
       '27':
-        name: Quảng Nam
+        name: "Quảng Nam|Quang Nam|Quaeng Nam"
       '28':
         name: Kon Tum
       '29':
-        name: Quảng Ngãi
+        name: "Quảng Ngãi|Quang Ngai|Quaeng Ngaei"
       '30':
         name: Gia Lai
       '31':
-        name: Bình Định
+        name: "Bình Định|Binh Dinh"
       '32':
-        name: Phú Yên
+        name: "Phú Yên|Phu Yen|Phue Yen"
       '33':
-        name: Đắc Lắk
+        name: "Đắc Lắk|Dac Lak|Daec Laek"
       '34':
-        name: Khánh Hòa
+        name: "Khánh Hòa|Khaenh Hoea|Khanh Hoa"
       '35':
-        name: Lâm Đồng
+        name: "Lâm Đồng|Lam Dong|Laem Doeng"
       '36':
-        name: Ninh Thuận
+        name: "Ninh Thuận|Ninh Thuan|Ninh Thuaen"
       '37':
-        name: Tây Ninh
+        name: "Tây Ninh|Taey Ninh|Tay Ninh"
       '39':
-        name: Đồng Nai
+        name: "Đồng Nai|Dong Nai|Doeng Nai"
       '40':
-        name: Bình Thuận
+        name: "Bình Thuận|Binh Thuan|Binh Thuaen"
       '41':
         name: Long An
       '43':
-        name: Bà Rịa-Vũng Tàu
+        name: "Bà Rịa-Vũng Tàu|Ba Ria-Vung Tau|Bae Ria-Vueng Taeu"
       '44':
         name: An Giang
       '45':
-        name: Đồng Tháp
+        name: "Đồng Tháp|Dong Thap|Doeng Thaep"
       '46':
-        name: Tiền Giang
+        name: "Tiền Giang|Tien Giang|Tiaen Giang"
       '47':
-        name: Kiên Giang
+        name: "Kiên Giang|Kiaen Giang|Kien Giang"
       '49':
-        name: Vĩnh Long
+        name: "Vĩnh Long|Vinh Long"
       '50':
-        name: Bến Tre
+        name: "Bến Tre|Ben Tre"
       '51':
-        name: Trà Vinh
+        name: "Trà Vinh|Tra Vinh|Trae Vinh"
       '52':
-        name: Sóc Trăng
+        name: "Sóc Trăng|Soc Trang|Soec Traeng"
       '53':
-        name: Bắc Kạn
+        name: "Bắc Kạn|Bac Kan|Baec Kaen"
       '54':
-        name: Bắc Giang
+        name: "Bắc Giang|Bac Giang|Baec Giang"
       '55':
-        name: Bạc Liêu
+        name: "Bạc Liêu|Bac Lieu|Baec Lieu"
       '56':
-        name: Bắc Ninh
+        name: "Bắc Ninh|Bac Ninh|Baec Ninh"
       '57':
-        name: Bình Dương
+        name: "Bình Dương|Binh Duong|Binh Duoeng"
       '58':
-        name: Bình Phước
+        name: "Bình Phước|Binh Phuoc|Binh Phuoec"
       '59':
-        name: Cà Mau
+        name: "Cà Mau|Ca Mau|Cae Mau"
       '61':
-        name: Hải Duong
+        name: "Hải Duong|Hai Duong|Haei Duong"
       '63':
-        name: Hà Nam
+        name: "Hà Nam|Ha Nam|Hae Nam"
       '66':
-        name: Hưng Yên
+        name: "Hưng Yên|Hung Yen"
       '67':
-        name: Nam Định
+        name: "Nam Định|Nam Dinh"
       '68':
-        name: Phú Thọ
+        name: "Phú Thọ|Phu Tho"
       '69':
-        name: Thái Nguyên
+        name: "Thái Nguyên|Thai Nguyen|Thaei Nguyen"
       '70':
-        name: Vĩnh Phúc
+        name: "Vĩnh Phúc|Vinh Phuc|Vinh Phuec"
       '71':
-        name: Điện Biên
+        name: "Điện Biên|Dien Bien"
       '72':
-        name: Đắk Nông
+        name: "Đắk Nông|Dak Nong|Daek Noeng"
       '73':
-        name: Hậu Giang
+        name: "Hậu Giang|Hau Giang|Haeu Giang"
       ct:
-        name: Cần Thơ
+        name: "Cần Thơ|Can Tho|Caen Thoe"
       dn:
-        name: Đà Nẵng
+        name: "Đà Nẵng|Da Nang|Dae Naeng"
       hn:
-        name: Hà Nội
+        name: "Hà Nội|Ha Noi|Hae Noei"
       hp:
-        name: Hải Phòng
+        name: "Hải Phòng|Hai Phong|Haei Phoeng"
       sg:
-        name: Hồ Chí Minh [Sài Gòn]
+        name: "Hồ Chí Minh [Sài Gòn]|Ho Chi Minh [Sai Gon]|Hoe Chi Minh [Saei Goen]"
