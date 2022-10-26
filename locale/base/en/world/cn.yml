@@ -26,8 +26,6 @@ en:
         name: Hebei Sheng
       hi:
         name: Hainan Sheng
-      hk:
-        name: Hong Kong SAR (see also separate country code entry under HK)
       hl:
         name: Heilongjiang Sheng
       hn:
@@ -40,8 +38,6 @@ en:
         name: Jiangxi Sheng
       ln:
         name: Liaoning Sheng
-      mo:
-        name: Macao SAR (see also separate country code entry under MO)
       nm:
         name: Nei Mongol Zizhiqu
       nx:
@@ -60,8 +56,6 @@ en:
         name: Shanxi Sheng
       tj:
         name: Tianjin Shi
-      tw:
-        name: Taiwan Sheng (see also separate country code entry under TW)
       xj:
         name: Xinjiang Uygur Zizhiqu
       xz:

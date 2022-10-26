@@ -23,8 +23,6 @@
   type: province
 - code: HI
   type: province
-- code: HK
-  type: special administrative region
 - code: HL
   type: province
 - code: HN
@@ -37,8 +35,6 @@
   type: province
 - code: LN
   type: province
-- code: MO
-  type: special administrative region
 - code: NM
   type: autonomous region
 - code: NX
@@ -57,8 +53,6 @@
   type: province
 - code: TJ
   type: municipality
-- code: TW
-  type: province
 - code: XJ
   type: autonomous region
 - code: XZ
